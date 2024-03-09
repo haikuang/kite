@@ -1,0 +1,129 @@
+[
+{
+"name": "若水",
+"server": "http://shicheng.wang:555/",
+"startPage": "/",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+},
+{
+"name": "微资源",
+"server": "https://apps.weixinqqq.com",
+"startPage": "/",
+"showAll": false,
+"search": true
+},
+        {
+        "name" : "🙋丫仙女",
+        "server" : "http://alist.xiaoya.pro",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "👍ECVE",
+        "server" : "https://pan.ecve.cn",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "🌊七米蓝",
+        "server" : "https://al.chirmyram.com",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "🐉神族九帝",
+        "server" : "https://alist.shenzjd.com",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "☃️姬路白雪",
+        "server" : "https://pan.jlbx.xyz",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+   {
+        "name" : "🦆小鸭",
+        "server" : "https://pan.mediy.cn",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+
+          {
+        "name" : "布满灰尘",
+        "server" : "https://pan.baiblog.ren/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+       {
+        "name" : "讯维云盘",
+        "server" : "https://pan.xwbeta.com",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+         {
+        "name" : "杜比",
+        "server" : "https://dubi.tk",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
+        "name" : "SmjcLoveC",
+        "server" : "http://pan.smjc.cc",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+      {
+        "name" : "触光",
+        "server" : "https://pan.ichuguang.com",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+      {
+        "name" : "雨呢",
+        "server" : "https://pan.clun.top/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+    {
+        "name" : "Azad",
+        "server" : "https://alist.azad.asia/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+     {
+        "name" : "Xiwangly",
+        "server" : "https://pan.xiwangly.top/",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    }, 
+        {
+        "name" : "✨星梦",
+        "server" : "https://pan.bashroot.top",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    }]
