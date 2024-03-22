@@ -131,7 +131,7 @@
       "name": " 龙门影视"
     },
      {
-      "url": "https://raw.gitcode.com/Xymz/ymz/blobs/3e447ee2b92cbf8282c1648387380768a73efa63/YMZ",
+      "url": "https://files.catbox.moe/eu3uj5",
       "name": " 夜猫子"
     },
    {
