@@ -1,11 +1,11 @@
 {
-"spider":"./jar/pg.jar;md5;fb3f154f8056eb85d209c5b16ff15da6",
+"spider":"./jar/pg.jar;md5;831e95476da617ee8f58f5ffdada0b09",
 "lives":[{"name":"初秋语","type":0,"url":"./live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
-{"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"./jar/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f"},
+{"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"./jar/fan.txt;md5;dd909349c70fe92e82470eba611b7094"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
 //=====================================
 {"key":"py_cctvdc","name":"🇨🇳CCTV丨片库[PY]","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/py2.json"},
@@ -81,6 +81,7 @@
 {"key":"lf_js_search","name":"🧲搜索丨路飞[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
 {"key":"drpy_js_新片场","name":"🆕新片丨新片场[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/新片场.js"},
 {"key":"drpy_js_ikanbot3","name":"影视 | 爱看机器人3[js]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js"},
+{"key":"drpy_js_jsapi2","name":"影视 | 百度测试[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jsapi2.js"},
 {"key":"T4-duanju5","name":"影视 | 短剧屋[T4]","type":4,"api":"https://catbox.n13.club/duanju5.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":true},
 {"key":"豆瓣","name":"搜索 | 豆瓣[jar]","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./json/douban.json"},
 {"key":"配置中心","name":"配置 | 中心[jar]","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
