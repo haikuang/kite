@@ -94,7 +94,7 @@
       "name": "ok321"
     },
   {
-      "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/TV/main/01.txt",
+      "url": "https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json",
       "name": " 潇洒"
     },
   {
