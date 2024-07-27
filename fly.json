@@ -27,7 +27,7 @@
 {"key":"csp_XYQH_FreeOK","name":"影视丨FreeOK[jar]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/FreeOK.json","jar":"./lib/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
 {"key":"drpy_js_六度TV","name":"影视丨六度[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/liuduTV.js"},
 //=========================================
-{"key": "️爱看Bot弹幕版","name": "爱看Bot|弹幕","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/okjpg.txt;md5;457e3520ff03baa23a3c415d53e92487","ext": {"danmu": true},"timeout": 10},
+{"key":"️爱看Bot弹幕版","name": "爱看Bot|弹幕","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/okjpg.txt;md5;7b519031fe3f38a8117fd402becb7927","ext": {"danmu": true},"timeout": 10},
 //=========================================
 {"key":"csp_AList","name":"AList┃网盘","type":"3","api":"csp_AList","searchable":"0","quickSearch":"0","filterable":"1","changeable":0,"jar":"./jar/fan.txt;md5;71d846866f2ceb9666ba114e5963983f","ext":"./json/alist.json"},
 {"key": "Lib","name": "立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fan.txt;md5;71d846866f2ceb9666ba114e5963983f","ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
