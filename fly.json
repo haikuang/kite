@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;3500d70d126ce8a3d718572fbddf0278",
+"spider":"./jar/pg.jar;md5;93278b5f3154802b9112c7a05981ba86",
 "lives":[{"name":"天空之城","type":0,"url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "wallpaper":"https://bing.img.run/rand.php",
@@ -27,7 +27,7 @@
 {"key":"csp_XYQH_FreeOK","name":"影视丨FreeOK[jar]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/FreeOK.json","jar":"./lib/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
 {"key":"drpy_js_六度TV","name":"影视丨六度[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/liuduTV.js"},
 //=========================================
-{"key":"️爱看Bot弹幕版","name": "爱看Bot|弹幕","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/okjpg.txt;md5;e95c1510cec98c68210275d600725c65","ext": {"danmu": true},"timeout": 10},
+{"key":"️爱看Bot弹幕版","name": "爱看Bot|弹幕","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/okjpg.txt;md5;f98a9ac8bd5b2b5ffda168167552daff","ext": {"danmu": true},"timeout": 10},
 //=========================================
 {"key":"csp_AList","name":"AList┃网盘","type":"3","api":"csp_AList","searchable":"0","quickSearch":"0","filterable":"1","changeable":0,"jar":"./jar/fan.txt;md5;d295ec4dcf9a78f8441996009a88ecb0","ext":"./json/alist.json"},
 {"key": "Lib","name": "立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fan.txt;md5;d295ec4dcf9a78f8441996009a88ecb0","ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
@@ -103,7 +103,7 @@
 {"key":"Xpanpan","name":"弹幕 | 小盘盘[jar]","type":3,"api":"csp_Xpanpan","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$https://xpanpan.site$$$null$$$1"},
 {"key":"Gaoqing","name":"弹幕 | 高清网[jar]","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"},
 {"key":"音范丝","name":"弹幕 | 音范丝[jar]","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/token.json$$$https://www.yinfans.me/$$$proxy$$$1"},
-
+{"key":"TGYunPan","name":"网盘 | TG搜索[jar]","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"./lib/token.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"},
 {"key":"YingSo","name":"磁力 | 影搜[jar]","type":3,"api":"csp_YingSo","timeout":60, "ext":"./lib/token.json$$$1"},
 {"key":"盘友圈","name":"网盘 | 盘友圈","type":3,"api":"csp_Panyq","timeout":60, "ext":"./lib/token.json"},
 {"key":"88Pan","name":"网盘 | 88网盘[jar]","type":3,"api":"csp_EightEight","timeout":30, "ext":"./lib/token.json$$$https://662688.xyz"},
