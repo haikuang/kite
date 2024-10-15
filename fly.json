@@ -80,6 +80,8 @@
 {"key": "比特","name": "比特┃秒播","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fan.txt;md5;4e1010524e7057305efc75565c87ba0d"},
 {"key": "Auete","name": "奥特┃无广","type": 3,"api": "csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fan.txt;md5;4e1010524e7057305efc75565c87ba0d","ext": "https://auete.pro/"},
 {"key": "新6V","name": "影视丨新6V","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "./jar/fan.txt;md5;4e1010524e7057305efc75565c87ba0d","ext": "http://www.xb6v.com/" },
+{"key": "310js","name": "310┃看球","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/310直播.js","style": {"type": "list"},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar":"./jar/fan.txt;md5;4e1010524e7057305efc75565c87ba0d"},
+{"key": "Jrsjs","name": "Jrs┃球迷","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/jrk.js","style": {"type": "list"},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar":"./jar/fan.txt;md5;4e1010524e7057305efc75565c87ba0d"},
 {"key": "短剧","name": "上头┃短剧","type": 3,"api": "csp_Djtt","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fan.txt;md5;4e1010524e7057305efc75565c87ba0d"},
 {"key": "MTV","name": "明星┃MV","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar": "./jar/fan.txt;md5;4e1010524e7057305efc75565c87ba0d","ext": "./json/MTV.json"},
 {"key": "Bili","name": "哔哔┃合集","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"jar":"./jar/fan.txt;md5;4e1010524e7057305efc75565c87ba0d","ext": "./lib/bilibili.json"},
