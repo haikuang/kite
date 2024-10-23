@@ -9,7 +9,7 @@
 {"key":"豆豆","name":"请勿相信任何广告！","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"./jar/fan.txt;md5;5738c641b7c4bb27ca7b5d8f1270dbd4"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
 //=====================================
-{"key":"py_cctv","name":"CCTV丨节目[PY]","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/cctv.py"},
+{"key":"py_cctv","name":"CCTV丨节目[PY]","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"jar":"./jar/ttkx.jar","ext":"./lib/cctv.py"},
 {"key":"TGYunPanLocal","name":"搜索 | TG[jar]","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/token.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$socks5://127.0.0.1:10172$$$1"},
 {"key": "FirstAid","name": "科普丨急救[jar]","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
 {"key":"drpy_js_直播大全","name":"电视丨直播大全[js]","type":3,"api":"./lib/live2cms.js","style":{ "type":"oval"},"changeable":0,"ext":"./js/live2mv_data.json"},
