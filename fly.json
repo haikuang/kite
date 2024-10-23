@@ -66,6 +66,7 @@
  {"key":"csp_Xunlei8","name":"迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XYQ.jar;md5;705ba6e23c4384c37a11dd904727520b"},
  {"key": "csp_XYQHiker_农民影视","name":"农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/XYQ.jar;md5;705ba6e23c4384c37a11dd904727520b","ext":"./XYQHiker/农民影视.json"},
 //===========================================
+{"key": "子子影视","name": "子子影视","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 1,"jar":"./jar/ttkx.jar","ext": "./json/子子.json"},
 {"key":"csp_Xunlei8","name":"磁力丨迅雷吧","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"./lib/drpy2.min.js","indexs":1,"ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"lf_js_p2p","name":"路飞丨磁力[js]","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_p2p2_min.js","timeout":30},
@@ -196,6 +197,7 @@
 {"key":"drpy_js_玄天","name":"影视 | 玄天[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/玄天.js"},
 {"key":"drpy_js_追剧迷","name":"影视丨追剧迷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追剧迷.js"},
 {"key":"drpy_js_子子影视","name":"影视丨子子影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/子子影视.js"},
+
 
 
 //教育
