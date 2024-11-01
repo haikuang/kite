@@ -1,0 +1,15 @@
+中国港澳,#genre#
+凤凰卫视中文台,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰卫视中文台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰卫视中文台,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKjsHpwHNZDHE5L_aeueDLys/.m3u8
+凤凰卫视中文台,http://xeace.cn:8888/udp/239.93.0.162:2192
+凤凰卫视资讯台,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰卫视资讯台,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰卫视资讯台,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKs5v52FoFMRpKEbFHPGGL14/.m3u8
+凤凰卫视资讯台,http://xeace.cn:8888/udp/239.93.0.118:2191
+澳门莲花,http://php.jdshipin.com:8880/amlh.php
+山东卫视,http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+山东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+山东体育,山东体育,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8
+山东体育,http://home.oxtv.top:5066/udp/239.21.1.141:5002
+山东体育,http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
