@@ -9,7 +9,7 @@
 {"key":"豆豆","name":"请勿相信任何广告！","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"./jar/fan.txt;md5;4e9f85464f8b911cc14f1359cd576f25"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
 //=====================================
-{"key": "央视大全","name": "CCTV","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/ttkx.jar","order_num": 0,"ext": "./js/大全央视.js"},
+ {"key": "cctv","name": "📺央视｜大全","type": 3,"api": "csp_CCTV","searchable": 0,"filterable": 0,"jar": "./jar/HCCX.jar","ext": "./lib/央视大全.json"},
 {"key":"TGYunPanLocal","name":"搜索 | TG[jar]","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/token.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$socks5://127.0.0.1:10172$$$1"},
 {"key": "FirstAid","name": "科普丨急救[jar]","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
 {"key":"drpy_js_直播大全","name":"电视丨直播大全[js]","type":3,"api":"./lib/live2cms.js","style":{ "type":"oval"},"changeable":0,"ext":"./js/live2mv_data.json"},
@@ -26,6 +26,8 @@
 {"key":"cjzy_暴风资源","name":"采集丨暴风[http]","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl":"","categories":["国产剧","国产动漫","大陆综艺","港台综艺","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","日本综艺","综艺频道","新马泰综艺","科幻片","喜剧片","战争片"]},
 {"key":"csp_XYQH_FreeOK","name":"影视丨FreeOK[jar]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/FreeOK.json","jar":"./lib/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
 {"key":"drpy_js_六度TV","name":"影视丨六度[js]","type":3,"api":"./lib/drpy.min.js","ext":"./js/liuduTV.js"},
+//=========================================
+{"key": "XYQH_电影港","name": "🛳┃港口┃磁力","type": 3,"playerType": 1,"api": "csp_XYQHiker","jar": "./jar/xyqh.jar","ext": "./json/港口.json"}, 
 //=========================================
 {"key":"csp_AList","name":"AList┃网盘","type":"3","api":"csp_AList","searchable":"0","quickSearch":"0","filterable":"1","changeable":0,"jar":"./jar/fan.txt;md5;4e9f85464f8b911cc14f1359cd576f25","ext":"./json/alist.json"},
 {"key":"YGP","name":"新片丨预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan.txt;md5;4e9f85464f8b911cc14f1359cd576f25"},
@@ -205,10 +207,10 @@
 {"key":"drpy_js_兔小贝","name":"少儿丨兔小贝[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/兔小贝.js"},
 {"key": "csp_XYQHiker_兔小贝2","name": "少儿丨兔小贝2[jar]","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/兔小贝2.json","jar": "./jar/XYQ.jar"},
 {"key":"drpy_js_有声绘本网","name":"少儿丨有声绘本[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/有声绘本网.js"},
-{"key": "少儿教育","name": "少儿┃教育","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar":"./jar/fan.txt;md5;4e9f85464f8b911cc14f1359cd576f25","ext":"./py/少儿教育.json"},
-{"key": "小学课堂","name": "小学┃课堂","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar":"./jar/fan.txt;md5;4e9f85464f8b911cc14f1359cd576f25","ext":"./py/小学课堂.json"},
-{"key": "初中课堂","name": "初中┃课堂","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar":"./jar/fan.txt;md5;4e9f85464f8b911cc14f1359cd576f25","ext": "./py/初中课堂.json"},
-{"key": "高中教育","name": "高中┃课堂","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar":"./jar/fan.txt;md5;4e9f85464f8b911cc14f1359cd576f25","ext":"./py/高中课堂.json"},
+{"key": "少儿教育","name": "少儿┃教育","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar":"./jar/fty.jar;md5;3d161697458ecbcd2651a749db761ba1","ext":"./py/少儿教育.json"},
+{"key": "小学课堂","name": "小学┃课堂","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar":"./jar/fty.jar;md5;3d161697458ecbcd2651a749db761ba1","ext":"./py/小学课堂.json"},
+{"key": "初中课堂","name": "初中┃课堂","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar":"./jar/fty.jar;md5;3d161697458ecbcd2651a749db761ba1","ext": "./py/初中课堂.json"},
+{"key": "高中教育","name": "高中┃课堂","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar":"./jar/fty.jar;md5;3d161697458ecbcd2651a749db761ba1","ext":"./py/高中课堂.json"},
 
 {"key": "说明2","name": "📣数据搬运自用非盈利，勿传播。","type": 3,"api": "csp_XPath","searchable": 0,"changeable": 0},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
