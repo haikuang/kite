@@ -37,7 +37,6 @@
 {"key": "糯米","name": "糯米┃秒播","type": 3,"api": "csp_Nmyswv","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d"},
 {"key": "比特","name": "比特┃秒播","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d"},
 {"key": "苹果","name": "苹果┃不卡","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d"},
-{"key":"原创","name":"原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d"},
 {"key": "厂长","name": "厂长丨不卡","type": 3,"api": "csp_NewCz","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d","ext": "https://www.czzy77.com/"},
 {"key": "木星","name": "木星┃多线","type": 3,"api": "csp_AppSx","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d","ext": "FbjDcUxPqpfNr0QF4QvEpcoxZIYRQNwQCG8Otba0yUlXQMqbvyrYj1rF/ef6Syy5Zj/ZkmAqgHsuU3lxEs8zPFZMXNqLxA+MbSlPxmlA1/58U/OgZ2I7cEW5ZHV6hg=="},
 {"key": "热播","name": "热播┃多线","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d","ext": "AO7TcBkd8I/B5wQc4Qma+pU="},
