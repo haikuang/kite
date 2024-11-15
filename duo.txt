@@ -45,7 +45,7 @@
       "name": "荷城茶秀"
     },
    {
-      "url": "http://ttkx.live:55/天天开心",
+      "url": "http://kxrj.site:55/天天开心",
       "name": "天天开心"
     },
     {
@@ -57,12 +57,12 @@
       "name": "高天流云JS"
     },
  {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-      "name": "高天流云0825"
+      "url": "https://tv.xn--yhqu5zs87a.top",
+      "name": "菜妮丝线"
     },
  {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
-      "name": "高天流云0821"
+      "url": "https://11256.kstore.space/TWYS/api.json",
+      "name": "天微"
     },
 
  {
