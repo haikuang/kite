@@ -8,14 +8,12 @@
 
 #范明明•综合
 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
-#初秋语•综合
-https://g.3344550.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
+#猫TV•综合
+http://rihou.cc:567/gggg.nzk
 #MV•综合
 http://rihou.cc:55/lib/MV.txt
-#猫TV·综合
-https://2883.kstore.space/%E2%91%A0%E7%8C%ABTV%E7%BA%BF%E8%B7%AF
-#cymz6·综合
-https://iptv.b2og.com/txt/cymz6_lives.txt
+#开心·综合
+http://kxrj.site:55/lib/kx2024.txt
 #YanG-1989·综合
 https://iptv.b2og.com/txt/y_g.txt
 #CN·综合
