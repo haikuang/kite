@@ -15,4 +15,6 @@ http://kxrj.site:55/lib/kx2024.txt
 #YanG-1989·综合
 https://iptv.b2og.com/txt/y_g.txt
 #TV·综合
-https://tv.iill.top/m3u/Gathe
+https://www.mytvsuper.xyz/m3u/Live.m3u
+#16万·MV
+https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
