@@ -53,7 +53,7 @@
       "name": "香雅情"
     },
       {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "高天流云JS"
     },
  {
@@ -66,19 +66,19 @@
     },
 
  {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
       "name": "高天流云0826"
     },
  {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
       "name": "高天流云0827"
     },
  {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "高天流云XYQ"
     },
       {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/haikuang/kite/main/fly.json",
+      "url": "https://raw.githubusercontent.com/haikuang/kite/main/fly.json",
       "name": " 大鹏"
     },
   {
