@@ -1,7 +1,7 @@
 {
 "spider":"./jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
 "lives":[{"name":"范明明","type":0,"url":"https://fanmingming.com/txt?url=https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Gather","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"直播","type":0,"url":"https://xn--rpb-mf3g9f.h.nxog.top/m/tv/1/&&&https://api.dzzui.com/api/avatar","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "wallpaper":"https://bing.img.run/rand.php",
 "sites":[
